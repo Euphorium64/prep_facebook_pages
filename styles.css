@@ -1,8 +1,26 @@
 /*Home Navbar*/
 
+@font-face {
+  font-family: "San Francisco"
+  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-regular-webfont.woff");
+}
+
+
 #hm-nb {
   background-color: #3C5B96;
   height: 80px;
   width: auto;
-  border-bottom: 2px solid black;
+  border-bottom: 1px solid black;
+  color: #FFF;
+  font-family: "San Francisco", -apple-system, BlinkMacSystemFont, sans-serif;
 }
+
+
+
+
+
+
+
+
+
+
