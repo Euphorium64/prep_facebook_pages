@@ -5,19 +5,29 @@
   src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-regular-webfont.woff");
 }
 
-
 #hm-nb {
   background-color: #3C5B96;
   height: 80px;
   width: auto;
+  min-width: 480px;
   border-bottom: 1px solid black;
   color: #FFF;
   font-family: "San Francisco", -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
+.fl {
+  width: 60%;
+  height: 100%;
+  display: inline-block;
+  float: left;
+}
 
-
-
+.signup {
+  width: 40%;
+  height: 100%;
+  display: inline-block;
+  float: right;
+}
 
 
 
