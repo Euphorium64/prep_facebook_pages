@@ -36,3 +36,12 @@
   float: right;
 }
 
+.signup table {
+  font-size: 12px;
+}
+
+.signup td {
+  padding: 5px 0 0 15px;
+}
+
+
