@@ -7,13 +7,13 @@
 
 #hm-nb {
   background-color: #3C5B96;
-  height: 70px;
+  height: 69px;
   width: auto;
   border-bottom: 1px solid black;
   color: #FFF;
   font-family: "San Francisco", -apple-system, BlinkMacSystemFont, sans-serif;
   margin: 0 auto;
-  padding-top: 13px;
+  padding-top: 14px;
 }
 
 .fl {
@@ -41,7 +41,26 @@
 }
 
 .signup td {
-  padding: 5px 0 0 15px;
+  padding: 4px 0 0 14px;
 }
+
+#email {
+  width: 150px;
+  height: 20px;
+  border: 1px solid black;
+  background-color: #FAFFB9;
+}
+
+#password {
+  width: 150px;
+  height: 20px;
+  border: 1px solid black;
+  background-color: #FAFFB9;
+}
+
+
+
+
+
 
 
