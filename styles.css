@@ -46,14 +46,14 @@
 }
 
 #email {
-  width: 150px;
+  width: 148px;
   height: 20px;
   border: 1px solid black;
   background-color: #FAFFB9;
 }
 
 #password {
-  width: 150px;
+  width: 148px;
   height: 20px;
   border: 1px solid black;
   background-color: #FAFFB9;
@@ -68,6 +68,22 @@
 .signup a:hover {
   text-decoration: underline;
 }
+
+#log-in {
+  background-color: #4267b2;
+  border: 1px solid #29487d;
+  color: #FFF;
+  height: 24px;
+  width: 47px;
+  border-radius: 2px;
+}
+
+#log-in:hover {
+  background-color: #3C5B96;
+  cursor: pointer;
+}
+
+
 
 
 
