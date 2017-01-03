@@ -38,6 +38,7 @@
 
 .signup table {
   font-size: 12px;
+  height: 95%;
 }
 
 .signup td {
@@ -58,9 +59,15 @@
   background-color: #FAFFB9;
 }
 
+.signup a {
+  text-decoration: none;
+  color: #9BB3D9;
+  padding-top: 3px;
+}
 
-
-
+.signup a:hover {
+  text-decoration: underline;
+}
 
 
 
