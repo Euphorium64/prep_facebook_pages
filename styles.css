@@ -98,7 +98,10 @@
   margin: 0 auto;
 }
 
-
+.lft-sd img {
+  display: inline-block;
+  float: left;
+}
 
 
 
