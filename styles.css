@@ -5,22 +5,26 @@
   src: local("assets/sanfranciscodisplay-regular-webfont.woff");
 }
 
-#hm-nb {
+.hm-nb-container {
   background-color: #3C5B96;
-  height: 69px;
-  width: auto;
+  height: 83px;
   border-bottom: 1px solid black;
+}
+
+#hm-nb {
+  width: 980px;
+  height: 100%;
+  margin: 0 auto;
   color: #FFF;
   font-family: "San Francisco", -apple-system, BlinkMacSystemFont, sans-serif;
-  padding-top: 14px;
 }
 
 .fl {
-  width: 57.5%;
+  width: 60%;
   height: 100%;
   display: inline-block;
   float: left;
-  padding-left: 2.5%;
+  padding-top: 13px;
 }
 
 .fl img {
@@ -33,15 +37,15 @@
   height: 100%;
   display: inline-block;
   float: right;
+  padding-top: 13px;
 }
 
 .signup table {
   font-size: 12px;
-  height: 95%;
 }
 
 .signup td {
-  padding: 4px 0 0 14px;
+  padding: 5px 0 0 14px;
 }
 
 #email {
