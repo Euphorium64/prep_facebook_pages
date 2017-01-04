@@ -82,6 +82,27 @@
   cursor: pointer;
 }
 
+/*Main Content*/
+
+.main-content-container {
+  height: 660px;
+  margin: 0 auto;
+  background-color: #EDF0F5;
+}
+
+.main-content {
+  width: 980px;
+}
+
+
+
+
+
+
+
+
+
+
 
 
 
