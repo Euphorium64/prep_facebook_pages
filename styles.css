@@ -104,10 +104,12 @@ h2 {
 .main-content {
   width: 980px;
   margin: 0 auto;
+  padding-top: 15px;
 }
 
 .lft-sd {
   width: 60%;
+  display: inline-block;
 }
 
 .lft-sd img {
@@ -149,9 +151,9 @@ h2 {
 
 /*Right Side*/
 
-.right-sd {
+.rght-sd {
   width: 40%;
-
+  float: right;
 }
 
 
