@@ -103,11 +103,20 @@
   float: left;
 }
 
+.statements {
+  display: block;
+  height: 60px;
+}
 
+h1,
+h2 {
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+}
 
-
-
-
+.main-content p {
+  font-family: "San Francisco", -apple-system, BlinkMacSystemFont, sans-serif;
+}
 
 
 
