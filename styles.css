@@ -98,14 +98,20 @@
   margin: 0 auto;
 }
 
+.lft-sd {
+  width: 60%;
+}
+
 .lft-sd img {
   display: inline-block;
   float: left;
+  width: 50px;
 }
 
 .statements {
   display: block;
   height: 60px;
+  padding: 0 0 15px 2px;
 }
 
 h1,
@@ -116,10 +122,25 @@ h2 {
 
 .main-content p {
   font-family: "San Francisco", -apple-system, BlinkMacSystemFont, sans-serif;
+  padding-left: 15px;
+  color: #666666;
+  font-size: 15px;
 }
 
+h1 {
+  font-size: 28px;
+  width: 425px;
+  height: 60px;
+  padding: 65px 0 50px;
+  line-height: 1.25em;
+}
 
+h2,
+.main-content p {
+  display: inline-block;
+  padding-top: 15px;
+}
 
-
-
-
+h2 {
+  padding-left: 25px;
+}
