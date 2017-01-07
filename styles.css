@@ -130,13 +130,14 @@ h2 {
   padding-left: 15px;
   color: #666666;
   font-size: 15px;
+  letter-spacing: -.01em;
 }
 
 .lft-sd h1 {
   font-size: 28px;
   width: 425px;
   height: 60px;
-  padding: 46px 0 50px;
+  padding: 46px 0 55px;
   line-height: 1.25em;
 }
 
