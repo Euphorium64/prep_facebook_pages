@@ -109,7 +109,7 @@ h1,
 }
 
 .lft-sd {
-  width: 60%;
+  width: 59%;
   display: inline-block;
 }
 
@@ -154,7 +154,7 @@ h1,
 /*Right Side*/
 
 .rght-sd {
-  width: 40%;
+  width: 41%;
   float: right;
 }
 
@@ -164,7 +164,9 @@ h1,
 }
 
 .rght-sd h1 {
-  font-size: 36px;
+  font-size: 35px;
+  margin-top: 8px;
+  letter-spacing: -.01em;
 }
 
 .rght-sd h2 {
