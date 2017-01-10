@@ -187,5 +187,35 @@ h1,
   text-decoration: underline;
 }
 
+.name input {
+  height: 35px;
+  border: 1px solid #BDC7D9;
+  border-radius: 5px;
+  font-size: 17px;
+  margin-top: 23px;
+  padding-left: 10px;
+}
+
+#frst-nm {
+
+}
+
+.nmbr-eml input,
+.re-nmbr-eml input,
+.pswrd input {
+  height: 35px;
+  width: 100%;
+  border: 1px solid #BDC7D9;
+  border-radius: 5px;
+  font-size: 17px;
+}
+
+
+
+
+
+
+
+
 
 
